@@ -1,0 +1,5 @@
+El objetivo de este ejercicio es que el programa reciba dos fechas
+dd//mm//aaaa en este formato, serán dos strings y devolvera un entero
+que será la diferencia de días de una fecha a otra.
+Siempre devolverá un valor absoluto.
+Si una de las cadenas tiene un formato incorrecto se lanzará una excepción.
