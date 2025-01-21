@@ -2,7 +2,7 @@ package menorYMayorNumero;
 
 import java.util.Arrays;
 
-public class menorYMayorNumero {
+public class MenorYMayorNumero {
     public static void main(String[] args) {
         for(Integer n: menorMayorNumero(new int[]{1,2,3,9,254,4,5,-6,0})){
             System.out.println(n);

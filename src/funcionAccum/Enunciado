@@ -1,0 +1,7 @@
+Crea una función que pueda replicar el siguiente ejemplo:
+
+accum("abcd") -> "A-Bb-Ccc-Dddd"
+accum("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
+accum("cwAt") -> "C-Ww-Aaa-Tttt"
+
+La función tomará como parámetro un string con letras de la a-z y A-Z.

@@ -1,6 +1,6 @@
 package convertirKmHCmSeg;
 
-public class convertiKmHCmSeg {
+public class ConvertiKmHCmSeg {
     public static void main(String[] args) {
 
     }
