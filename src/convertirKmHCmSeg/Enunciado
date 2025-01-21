@@ -1,0 +1,3 @@
+Dada una velocidad en Km/h se debe dar un resultado en Cm/Seg
+La velocidad será siempre un número real mayor que 0.
+El resultado deberá de ser un número entero, se redondea hacía abajo.
