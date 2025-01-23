@@ -1,0 +1,7 @@
+Crea una función para calcular el indice de masa corporal de una persona, la funcióna tomará dos parámetros del tipo double, peso y altura.
+Devolverá un string indicando dónde que tipo de complexión tiene.
+La fórmula es la siguiente : peso/altura^2
+bmi <= 18.5  "Underweight"
+bmi <= 25"Normal"
+bmi <= 30 "Overweight"
+bmi >30 "Obese"
