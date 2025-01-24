@@ -1,0 +1,5 @@
+Crea una función que tome un string, el objetivo es que separe la cadena en duplas de caracteres y devuelva un array con estas duplas. Si la cadena tiene un número
+de caracteres impar, entonces la última dupla acabara en '_'
+
+* 'abc' =>  ['ab', 'c_']
+* 'abcdef' => ['ab', 'cd', 'ef']
