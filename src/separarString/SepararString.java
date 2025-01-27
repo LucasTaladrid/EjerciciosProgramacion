@@ -34,7 +34,7 @@ public class SepararString {
         Se ahorra un if ya que si la cadena es impar se vuelve impar añadiendo la barra baja
         Se crear el array
         Por último se evita el uso excesivo de variables, se modifica la i según las necesidades.
-        
+
        if (s.length()%2 == 1) s+="_";
         String[] str = new String[s.length()/2];
         for (int i = 0; i < s.length(); i+=2)

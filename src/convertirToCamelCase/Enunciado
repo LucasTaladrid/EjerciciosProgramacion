@@ -1,0 +1,8 @@
+Dada una cadena separada por barras bajas, se debe de devolver en formato camelCase, si la primera letra de la cadena esta en mayúsculas se conserva
+como se ve en el ejemplo
+
+"the-stealth-warrior" -> to "theStealthWarrior"
+
+"The_Stealth_Warrior"-> "TheStealthWarrior"
+
+"The_Stealth-Warrior" -> "TheStealthWarrior"
