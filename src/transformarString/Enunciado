@@ -1,0 +1,6 @@
+El objetivo del ejercicio es convertir todos los caracteres de una cadena de texto, si el carácter no se repite pasará a ser "(" y si se repite se convertirá
+en ")".
+"din"      =>  "((("
+"recede"   =>  "()()()"
+"Success"  =>  ")())())"
+"(( @"     =>  "))(("
