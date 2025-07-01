@@ -1,0 +1,5 @@
+Dado un número debemos de devolver un String con la Notación expandida
+Por ejemplo:
+12--> "10+2"
+134-->"100+30+4"
+70304-->"70000+300+4"

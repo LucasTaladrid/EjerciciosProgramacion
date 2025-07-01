@@ -1,0 +1,1 @@
+Dado un string devolver la primera letra que se no repita, por ejemplo dada la palabra "stress" la función debe devolver 't'

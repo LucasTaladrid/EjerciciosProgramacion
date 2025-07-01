@@ -1,0 +1,9 @@
+Dado un triangulo de número impares
+    1
+ 3      5
+ 7  9   11
+ .....
+ Seleccionar una fila y devolver su suma
+ 1->1
+ 2->8
+ ....
