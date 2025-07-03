@@ -1,0 +1,2 @@
+Dado un número positivo, devolver un array de sus dígitos en el orden inverso
+35321 ->[1,2,3,5,3]

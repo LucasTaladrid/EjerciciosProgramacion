@@ -1,0 +1,2 @@
+Dado un array de enteros y un entero, calcular la media del array y comprobar si es superior o inferior al entero dado.
+Tener en cuenta que el entero no se añade al array, pero lo hay que considerar para la media
