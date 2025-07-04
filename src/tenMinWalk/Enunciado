@@ -1,0 +1,6 @@
+Tienes una cita en 10 minutos y para hacer tiempo vas a dar un paseo usando una aplicación.
+La aplicación te manda un array de coordenadas para indicarte por dónde debes andar [n,s,e,w]
+Suponinedo que te mueves un minuto en esa coordeanda, haz un método que verifique si el paseo que te da la aplicación te dejará en el lugar de tu cita en 10 minutos.
+
+{'n','s','n','s','n','s','n','s','n','n'}, false)
+{'n','s','n','s','n','s','n','s','n','s'}, true)
