@@ -1,0 +1,8 @@
+Se te va a dar un string no vacío.
+El objetivo es devolver los caracteres del medio.
+Si la longitud del string es par se devuelven los dos caracteres del medio.
+Si es impar se devuelve solo uno del medio.
+"test" --> "es"
+"testing" --> "t"
+"middle" --> "dd"
+"A" --> "A"
