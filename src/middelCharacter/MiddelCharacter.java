@@ -14,7 +14,4 @@ public class MiddelCharacter {
        }
     }
 
-    public static void main(String[] args) {
-        System.out.println(getMiddle("testing"));
-    }
 }

@@ -1,0 +1,14 @@
+Recibimos dos arrays de enteros de la misma longitud
+El objetivo es ir comparando cada entero con su contraparte del otro array.
+Obtenemos la diferencia al cuadrado
+Por último vamos a devolver la media de estas diferencias
+
+
+[1, 2, 3], [4, 5, 6]-->   9   because (9 + 9 + 9) / 3
+
+1-4 = -3 -> -3 * -3 =9
+2-5= -3 -> -3* -3 =9
+3-6= -3 -> -3 * -3= 9
+
+[10, 20, 10, 2], [10, 25, 5, -2]  -->  16.5 because (0 + 25 + 25 + 16) / 4
+[-1, 0], [0, -1]                  -->   1   because (1 + 1) / 2
