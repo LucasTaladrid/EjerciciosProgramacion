@@ -1,0 +1,5 @@
+Vamos a recibir un array de enteros.
+El objetivo es identificar los picos locales, es decir, encontrar los números que son mayores a sus vecinos.
+El resultado lo vamos a devolver con Map<String,List> devolvemos las posiciones y los valores
+[3, 2, 3, 6, 4, 1, 2, 3, 2, 1, 2, 3] Los picos serían el 6 y el 3, en las posiciones 3 y 7
+Debemos tener en cuenta los plateaus(mesetas)[1, 2, 2, 2, 1] en este conjunto el pico es el 2, pero sería el primero.[1, 2, 2, 2, 3] aqui no habría un pico.
